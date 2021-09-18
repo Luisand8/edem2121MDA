@@ -1,4 +1,4 @@
-# edem2121MDA
+
 # EDEM MDA 2021-2022
 Autor: Luis Andreu Navarro
 Máster: Big Data Analytics
