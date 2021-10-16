@@ -38,7 +38,7 @@ Server:
 #### Once validated download the Zeppelin Docker file
 Run below command 
 ```bash
-docker run -p 19999:8080 -v $PWD/data:/zeppelin/data -v $PWD/logs:/logs --rm --name zeppelin_single apache/zeppelin:0.8.1 
+docker run -p 19999:8080  --rm --name zeppelin_single apache/zeppelin:0.8.1 
 ```
 ```bash
 0.8.1: Pulling from apache/zeppelin
